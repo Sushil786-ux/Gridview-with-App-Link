@@ -67,7 +67,6 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-
     }
     class gridadapter extends BaseAdapter{
 
@@ -95,5 +94,4 @@ public class MainActivity extends AppCompatActivity {
             return view1;
         }
     }
-
 }
